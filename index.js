@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 const prefix = "!";
-const token = "Njc0MzI0Mzg4NjczMjI0NzE1.Xlj9Nw.9VIk3-iZeSjEF7qTa2D46KDMWcY"
+const token = "NjE2NzMwOTA2MzMzNTQ0NDYw.XlkcxQ.QsJq_wz33o9ZejR2sAwGEcrmKIE"
 
 bot.on("ready", () => {
     bot.user.setActivity('Drugs 💊', { type: 'STREAMING', url:'https://www.twitch.tv/tycohunto/'})
