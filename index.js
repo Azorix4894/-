@@ -8,7 +8,7 @@ var prefix = "!"
 // Here
 bot.login('NjE2NzMwOTA2MzMzNTQ0NDYw.XllY-g.aN6HcJ4zV38pI4HiS7O87WzLyoE');
 
-bot.user.setActivity('Drugs 💊', { type: 'STREAMING', url:'https://www.twitch.tv/tycohunto/'})
+
 bot.on('ready', () => {
     console.log("");
 });
